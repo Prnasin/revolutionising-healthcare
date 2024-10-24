@@ -1,1 +1,2 @@
-# revolutionising-healthcare
+Our idea focuses on decentralising technologies, particularly blockchain, to transform healthcare system by enhancing data security, patient ownership and control, smart contracts for record management, transparent and fraud resistance system.
+This model represents a paradigm shift from the traditional systems, fostering a future where patients own their data, and healthcare processes are streamlined, secure, and fraud-resistant.# revolutionising-healthcare
